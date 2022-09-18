@@ -1,3 +1,5 @@
+##JSON Format Python file of 800+ Pokemon moves with type and stats.
+
 move_data = [
     {
         "Name": "Zippy Zap",

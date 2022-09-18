@@ -1,3 +1,5 @@
+#JSON Format Python file of 809 Pokemon with type and stats.
+
 pokemon_data = [
   {
     "id": 1,
